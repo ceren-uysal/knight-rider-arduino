@@ -18,5 +18,12 @@ LEDs turn on sequentially from left to right and then reverse.
 This project is inspired by online Arduino Knight Rider examples.
 I recreated and tested it on Tinkercad for learning purposes.
 
+## Circuit Design
+
+![Circuit](knight_rider.png)
+
+## Simulation
+Built and tested using Tinkercad.
+
 ## Author
 Ceren Uysal
