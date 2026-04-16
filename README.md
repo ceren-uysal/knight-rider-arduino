@@ -1,7 +1,6 @@
-Arduino Knight Rider LED effect using multiple LEDs
-
 # Knight Rider Arduino Project
 
+Arduino Knight Rider LED effect using multiple LEDs
 This project simulates the Knight Rider LED effect using Arduino.
 
 ## Components
